@@ -1,6 +1,6 @@
 # Equitrip
 
-![Equitrip Logo](./equitrip_logo.png)
+![Equitrip Logo](equitrip_logo.png)
 
 ### Quem somos?
 
@@ -65,7 +65,7 @@ Em nosso momento de fechar o escopo de tecnologias, decidimos utilizar pelas seg
 
 ### Arquitetura 
 
-![Equitrip Infrastructure](./equitrip_architecture.png)
+![Equitrip Infrastructure](equitrip_architecture.png)
 
 ### Links para os nossos repositórios
 
