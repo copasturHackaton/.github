@@ -1,5 +1,7 @@
 # Equitrip
 
+![Equitrip Logo](./equitrip_logo.png)
+
 ### Quem somos?
 
 Nós somos um grupo de jovens instigados por problemas, movidos por desafios e com vontade de solucioná-los. 
